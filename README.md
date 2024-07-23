@@ -12,4 +12,3 @@ Meu nome é Louise Maria
 louisemariacardosou@gmail.com
 
 
-![descrição do GIF](link GIF do Tenor)
